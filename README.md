@@ -1,5 +1,7 @@
-# Zong-First-Person-Test
- 
+# First-Person-Interactables-Objectives
+
+This project contains a simple first person perspective interactables and completing objectives architecture to build on.
+
 ## Unity Version: 
 
 * 2021.3.0f1
